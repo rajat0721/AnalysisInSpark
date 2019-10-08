@@ -1,0 +1,31 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\savvy\IdeaProjects\lumiq\target\scala-2.11\lumiq_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utility\SparkUtility.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\savvy\IdeaProjects\lumiq\target\scala-2.11\classes\utility\SparkUtility.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\savvy\IdeaProjects\lumiq\target\scala-2.11\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\lumiq\dev\CheckPoint$$anonfun$checkpoint1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\savvy\IdeaProjects\lumiq\target\scala-2.11\classes\com\lumiq\dev\CheckPoint$$anonfun$checkpoint1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\lumiq\dev[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\savvy\IdeaProjects\lumiq\target\scala-2.11\classes\com\lumiq\dev[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\lumiq\dev\CheckPoint$$anonfun$checkpoint5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\savvy\IdeaProjects\lumiq\target\scala-2.11\classes\com\lumiq\dev\CheckPoint$$anonfun$checkpoint5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\lumiq\dev\CheckPoint$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\savvy\IdeaProjects\lumiq\target\scala-2.11\classes\com\lumiq\dev\CheckPoint$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\lumiq\dev\CheckPoint.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\savvy\IdeaProjects\lumiq\target\scala-2.11\classes\com\lumiq\dev\CheckPoint.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utility\SparkUtility$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\savvy\IdeaProjects\lumiq\target\scala-2.11\classes\utility\SparkUtility$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\lumiq\dev\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\savvy\IdeaProjects\lumiq\target\scala-2.11\classes\com\lumiq\dev\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\lumiq\dev\CheckPoint$$anonfun$checkpoint5$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\savvy\IdeaProjects\lumiq\target\scala-2.11\classes\com\lumiq\dev\CheckPoint$$anonfun$checkpoint5$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utility[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\savvy\IdeaProjects\lumiq\target\scala-2.11\classes\utility[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\lumiq[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\savvy\IdeaProjects\lumiq\target\scala-2.11\classes\com\lumiq[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\lumiq\dev\CheckPoint$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\savvy\IdeaProjects\lumiq\target\scala-2.11\classes\com\lumiq\dev\CheckPoint$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\lumiq\dev\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\savvy\IdeaProjects\lumiq\target\scala-2.11\classes\com\lumiq\dev\Main.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
