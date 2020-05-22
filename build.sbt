@@ -1,4 +1,4 @@
-name := "lumiq"
+name := "analysisinspark"
 
 version := "0.1"
 
