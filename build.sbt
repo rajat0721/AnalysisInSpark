@@ -11,7 +11,7 @@ libraryDependencies += "org.scala-lang" % "scala-library" % "2.11.8"
 /*libraryDependencies ++= Seq(
   "org.apache.spark" % "spark-sql_2.11" % "2.0.0" % "provided")*/
 
-resolvers += "Hortonworks Repository" at "http://repo.hortonworks.com/content/repositories/releases/"
+resolvers += "Hortonworks Repository" at "https://repo.hortonworks.com/content/repositories/releases/"
 
 libraryDependencies ++= Seq(
   "org.apache.spark" % "spark-core_2.11" % sparkVersion,
